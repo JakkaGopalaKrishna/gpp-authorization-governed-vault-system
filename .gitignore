@@ -1,0 +1,45 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Dependencies
+node_modules/
+vendor/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Cache
+.cache/
+.tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Java
+*.class
+target/
+
+# Coverage
+coverage/
+*.lcov
+
+# Git
+*.orig
